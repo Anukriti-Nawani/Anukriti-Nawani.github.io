@@ -1,16 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.f243c351.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.73780a53.css",
+    "main.js": "/static/js/main.3af78da7.js",
+    "static/js/787.bfbf3aeb.chunk.js": "/static/js/787.bfbf3aeb.chunk.js",
+    "static/media/backgroundHome.jpeg": "/static/media/backgroundHome.a3861fa62c13f0155949.jpeg",
+    "static/media/fitnessBlender.png": "/static/media/fitnessBlender.a34c75d2c738ccffff9a.png",
+    "static/media/zara.jpg": "/static/media/zara.54c7002aed69958940eb.jpg",
+    "static/media/profilePic.jpeg": "/static/media/profilePic.33cf28dcde129d8e8e13.jpeg",
+    "static/media/kfc.jpeg": "/static/media/kfc.0b26bd2330b61df7b734.jpeg",
+    "static/media/ESPN.jpeg": "/static/media/ESPN.1f5a7cd67e56495520d4.jpeg",
+    "static/media/react.png": "/static/media/react.22d1f2096ed82cab7a8a.png",
+    "static/media/mongodb.png": "/static/media/mongodb.4f7af09e6354d51beec8.png",
+    "static/media/css3.png": "/static/media/css3.845e8eb63836bef093cf.png",
+    "static/media/git.png": "/static/media/git.b1472a80b81e487179cf.png",
+    "static/media/redux.png": "/static/media/redux.7fec6369cecd1cbd44d6.png",
+    "static/media/nodejs.png": "/static/media/nodejs.b508473ad71a31ce2fae.png",
+    "static/media/html5.png": "/static/media/html5.4e6edfe05f07c383e94f.png",
+    "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/mern.png": "/static/media/mern.b58d81727b47466a7cda.png",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.f243c351.js.map": "/static/js/main.f243c351.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "main.73780a53.css.map": "/static/css/main.73780a53.css.map",
+    "main.3af78da7.js.map": "/static/js/main.3af78da7.js.map",
+    "787.bfbf3aeb.chunk.js.map": "/static/js/787.bfbf3aeb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f243c351.js"
+    "static/css/main.73780a53.css",
+    "static/js/main.3af78da7.js"
   ]
 }
