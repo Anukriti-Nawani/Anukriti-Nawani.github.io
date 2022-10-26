@@ -93,15 +93,21 @@ const Navbar = () => {
           </li>
 
           <li>
-            <Link
+          <a href="https://drive.google.com/uc?export=download&id=1q8TZXuKkCwmZtX33CEDmGI-Ug3vhI8hl">Resume</a>
+                           
+                          
+          
+            {/* <Link
               activeClass="active"
-              to="https://drive.google.com/uc?export=download&id=1q8TZXuKkCwmZtX33CEDmGI-Ug3vhI8hl"
+            //   to="https://drive.google.com/uc?export=download&id=1q8TZXuKkCwmZtX33CEDmGI-Ug3vhI8hl"
+  
               onClick={() => setHead(true)}
               spy={true}
               smooth={true}
             >
               Resume
-            </Link>
+            </Link> */}
+           
           </li>
 
         </ul>
