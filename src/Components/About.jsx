@@ -30,7 +30,7 @@ const About = () => {
               //   3000,
               // ]}
 
-              steps={["I'm a Full Stack Web Developer",, 1000, "I'm a Daydreamer", 500]}
+              steps={["I'm a Full Stack Web Developer",, 1000, "I'm a receptive", 500]}
 
             />
                         <p>An enthusiastic Full Stack Web Developer with a strong set of technical as well as non-technical skills and a dedication towards creating useful and interactive web applications.</p>
@@ -61,7 +61,7 @@ const About = () => {
                     <div className='right'>
                     
                         <h2>I am a <span>MERN Stack Developer</span></h2>
-                        <p>My name is Anukriti Nawani, I am from Bengaluru, Karnataka. Frontend Developer with the ability to learn and collaborate in rapidly changing environments and compositions. Worked through 1000+ hours of Bootcamp structure learning JavaScript, Node.Js, React.Js, MongoDB, Express, HTML5, and CSS3.</p>
+                        <p>My name is Anukriti Nawani, I am from Bengaluru, Karnataka. Frontend Developer with the ability to learn and collaborate in rapidly changing environments and compositions. Worked through 1000+ hours of bootcamp structure learning in JavaScript, Node.Js, React.Js, MongoDB, Express, HTML5, and CSS3.</p>
                         {/* <div>
                             <img src={signature} alt='Mohit_Signature' width='200px' />
                         </div> */}

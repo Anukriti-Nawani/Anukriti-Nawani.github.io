@@ -16,6 +16,17 @@ const Github = () => {
             <Container>
                 <GithubCalendar username='Anukriti-Nawani'year={new Date().getFullYear()} blockSize={15} blockMargin={5} fontSize={16} />
             </Container>
+
+            <h1 style={{ color: "teal", textTransform: "uppercase" }}>my github statistics</h1>
+            <Container>
+                <img src="https://github-readme-streak-stats.herokuapp.com?user=Anukriti-Nawani" alt="" />
+                <div>
+                    <img src="https://github-readme-stats.vercel.app/api?username=Anukriti-Nawani" alt="" className="stats" />
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anukriti-Nawani" alt="" />
+                </div>
+            </Container>
+
+
         </MainContainer>
     )
 }
