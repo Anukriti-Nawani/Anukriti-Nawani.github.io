@@ -1,4 +1,5 @@
 import backgroundImage from "../Resources/Images/backgroundHome.jpeg";
+import DownloadIcon from "@mui/icons-material/Download";
 import styled from "styled-components";
 import React, { useEffect, useState } from "react";
 import { Link, animateScroll } from "react-scroll";
@@ -91,25 +92,14 @@ const Navbar = () => {
               Contact
             </Link>
           </li>
-
+          {/* <li><div className='resumeBox'><a className='resume' href="https://drive.google.com/uc?export=download&id=1Tr4JaRtllSROzZWTEwdR4aAUXlfb5CLR">
+                        Resume<DownloadIcon />
+                    </a></div></li> */}
           <li>
-          <a href="https://drive.google.com/uc?export=download&id=1q8TZXuKkCwmZtX33CEDmGI-Ug3vhI8hl">Resume</a>
-                           
-                          
-          
-            {/* <Link
-              activeClass="active"
-            //   to="https://drive.google.com/uc?export=download&id=1q8TZXuKkCwmZtX33CEDmGI-Ug3vhI8hl"
-  
-              onClick={() => setHead(true)}
-              spy={true}
-              smooth={true}
-            >
+            <a href="https://drive.google.com/uc?export=download&id=1q8TZXuKkCwmZtX33CEDmGI-Ug3vhI8hl">
               Resume
-            </Link> */}
-           
+            </a>
           </li>
-
         </ul>
       </header>
     </Container>
@@ -174,7 +164,22 @@ const Container = styled.div`
   }
 
   li a:hover {
-    color: red;
+    color: #01a479;
+  }
+
+  .header li .resume {
+    width: 80px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 1px solid #01a479;
+    background: #01a479;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    font-weight: bold;
+    margin-top: 5px;
   }
 
   /* menu icon */
@@ -224,7 +229,7 @@ const Container = styled.div`
 
   .header .menu-btn:checked ~ .menu {
     width: 100%;
-    max-height: 300px;
+    max-height: 450px;
     background-color: white;
   }
 
@@ -247,7 +252,7 @@ const Container = styled.div`
 
   /* 48em = 768px */
 
-  @media (min-width: 55em) {
+  @media (min-width: 60em) {
     .header li {
       float: left;
     }
@@ -264,6 +269,55 @@ const Container = styled.div`
 
     .header .menu-icon {
       display: none;
+    }
+  }
+
+  @media only screen and (min-width: 769px) and (max-width: 960px) {
+    .header .menu {
+      font-size: small;
+    }
+
+    .resumeBox {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
+  }
+
+  @media only screen and (min-width: 481px) and (max-width: 768px) {
+    .resumeBox {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
+  }
+
+  @media only screen and (min-width: 320px) and (max-width: 480px) {
+    .resumeBox {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
+  }
+
+  @media only screen and (max-width: 320px) {
+    .resumeBox {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
+  }
+
+  @media only screen and (max-width: 319px) {
+    .resumeBox {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 20px;
     }
   }
 `;

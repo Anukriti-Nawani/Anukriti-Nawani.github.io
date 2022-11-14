@@ -23,12 +23,7 @@ const About = () => {
                         <Typical
                        className='typical'
               loop={Infinity}
-              // steps={[
-              //   "A Full Stack Web Developer",
-              //   3000,
-              //   "Daydreamer",
-              //   3000,
-              // ]}
+              
 
               steps={["I'm a Full Stack Web Developer",, 1000, "I'm a receptive", 500]}
 
@@ -168,12 +163,17 @@ const Container = styled.div`
             height:100%;
             flex-direction:column-reverse;
             gap:0px;
+            // border:1px solid blue;
         }
 
         .about_leftBox>h1{
             font-size:x-large;
-            line-height:0px;
+           
             text-align:center;
+            // border:1px solid blue;
+           
+            width: 140%;
+           
         }
 
         .about_leftBox>p{
@@ -457,6 +457,8 @@ const AboutMeWrapper = styled.div`
         .aboutSection{
             flex-direction:column;
             align-items:center;
+            // border:1px solid blue;
+            margin-top: 7rem;
         }
 
         .left{
@@ -517,6 +519,8 @@ const AboutMeWrapper = styled.div`
         .aboutSection{
             flex-direction:column;
             align-items:center;
+            margin-top:4rem;
+           
         }
 
         .left{
