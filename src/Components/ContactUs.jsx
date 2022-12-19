@@ -83,7 +83,7 @@ const ContactUs = () => {
                         <div  data-aos='fade-up'>
                             <EmailIcon fontSize="large"/>
                             <h1>Email</h1>
-                            <p>You can Simply mail me just by clicking on my email</p>
+                            <p>You can mail me.</p>
                             <a href='mailto:anunwn@gmail.com' rel="noreferrer" target="_blank"><p>anunwn@gmail.com</p></a>
                         </div>
                         <div data-aos='fade-left'>
