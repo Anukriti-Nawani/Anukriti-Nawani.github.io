@@ -5,6 +5,9 @@ import PhoneIcon from '@mui/icons-material/Phone';
 import EmailIcon from '@mui/icons-material/Email';
 import LocationOnIcon from '@mui/icons-material/LocationOn';
 import FavoriteIcon from '@mui/icons-material/Favorite';
+import GitHubIcon from '@mui/icons-material/GitHub';
+import LinkedInIcon from '@mui/icons-material/LinkedIn';
+
 import Aos from "aos";
 import "aos/dist/aos.css";
 
@@ -94,21 +97,21 @@ const ContactUs = () => {
 
 {/* linkedIn */}
 <div data-aos='fade-left'>
-                            <LocationOnIcon fontSize="large" />
-                            <h1>Location</h1>
-                            <p>Bengaluru, Karnataka</p>
-                            <a href="https://www.google.com/maps/place/Bengaluru,+Karnataka/@12.953847,77.3500397,10z/data=!3m1!4b1!4m5!3m4!1s0x3bae1670c9b44e6d:0xf8dfc3e8517e4fe0!8m2!3d12.9715987!4d77.5945627" rel="noreferrer" target="_blank">
-                                <p>View on Google map</p>
+                            <LinkedInIcon fontSize="large" />
+                            <h1>LinkedIn</h1>
+                         
+                            <a href="https://www.linkedin.com/in/anukriti-nawani-939672232/" rel="noreferrer" target="_blank">
+                                <p>View my linkedIn prfile</p>
                             </a>
                         </div>
 
                         {/* github */}
                         <div data-aos='fade-left'>
-                            <LocationOnIcon fontSize="large" />
-                            <h1>Location</h1>
-                            <p>Bengaluru, Karnataka</p>
-                            <a href="https://www.google.com/maps/place/Bengaluru,+Karnataka/@12.953847,77.3500397,10z/data=!3m1!4b1!4m5!3m4!1s0x3bae1670c9b44e6d:0xf8dfc3e8517e4fe0!8m2!3d12.9715987!4d77.5945627" rel="noreferrer" target="_blank">
-                                <p>View on Google map</p>
+                            <GitHubIcon fontSize="large" />
+                            <h1>My Github Profile</h1>
+                            
+                            <a href="https://github.com/Anukriti-Nawani" rel="noreferrer" target="_blank">
+                                <p>View my github</p>
                             </a>
                         </div>
 
