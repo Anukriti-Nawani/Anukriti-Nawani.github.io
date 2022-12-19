@@ -101,7 +101,7 @@ const ContactUs = () => {
                             <h1>LinkedIn</h1>
                          
                             <a href="https://www.linkedin.com/in/anukriti-nawani-939672232/" rel="noreferrer" target="_blank">
-                                <p>View my linkedIn prfile</p>
+                                <p>View my linkedIn profile</p>
                             </a>
                         </div>
 
