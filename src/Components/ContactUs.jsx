@@ -108,10 +108,10 @@ const ContactUs = () => {
                         {/* github */}
                         <div data-aos='fade-left'>
                             <GitHubIcon fontSize="large" />
-                            <h1>My Github Profile</h1>
+                            <h1>My Github</h1>
                             
                             <a href="https://github.com/Anukriti-Nawani" rel="noreferrer" target="_blank">
-                                <p>View my github</p>
+                                <p>View my github profile</p>
                             </a>
                         </div>
 
