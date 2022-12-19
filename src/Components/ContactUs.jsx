@@ -91,6 +91,27 @@ const ContactUs = () => {
                                 <p>View on Google map</p>
                             </a>
                         </div>
+
+{/* linkedIn */}
+<div data-aos='fade-left'>
+                            <LocationOnIcon fontSize="large" />
+                            <h1>Location</h1>
+                            <p>Bengaluru, Karnataka</p>
+                            <a href="https://www.google.com/maps/place/Bengaluru,+Karnataka/@12.953847,77.3500397,10z/data=!3m1!4b1!4m5!3m4!1s0x3bae1670c9b44e6d:0xf8dfc3e8517e4fe0!8m2!3d12.9715987!4d77.5945627" rel="noreferrer" target="_blank">
+                                <p>View on Google map</p>
+                            </a>
+                        </div>
+
+                        {/* github */}
+                        <div data-aos='fade-left'>
+                            <LocationOnIcon fontSize="large" />
+                            <h1>Location</h1>
+                            <p>Bengaluru, Karnataka</p>
+                            <a href="https://www.google.com/maps/place/Bengaluru,+Karnataka/@12.953847,77.3500397,10z/data=!3m1!4b1!4m5!3m4!1s0x3bae1670c9b44e6d:0xf8dfc3e8517e4fe0!8m2!3d12.9715987!4d77.5945627" rel="noreferrer" target="_blank">
+                                <p>View on Google map</p>
+                            </a>
+                        </div>
+
                     </div>
                 </div>
                 {submit && <>

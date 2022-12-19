@@ -92,9 +92,7 @@ const Navbar = () => {
               Contact
             </Link>
           </li>
-          {/* <li><div className='resumeBox'><a className='resume' href="https://drive.google.com/uc?export=download&id=1Tr4JaRtllSROzZWTEwdR4aAUXlfb5CLR">
-                        Resume<DownloadIcon />
-                    </a></div></li> */}
+         
           <li>
             <a href="https://drive.google.com/uc?export=download&id=1q8TZXuKkCwmZtX33CEDmGI-Ug3vhI8hl">
               Resume
