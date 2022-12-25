@@ -21,7 +21,7 @@ const Projects = () => {
             desc: 'Latest trends in clothing for women, men & kids at ZARA online. Find new arrivals, fashion catalogs, collections & lookbooks every week.',
             worked: 'A collaborative project, built in 4 days by a team of 5 developers.',
             githubLink: 'https://github.com/Anukriti-Nawani/Zara_clone',
-            deployedLink: 'https://zara-clone-ruddy.vercel.app/',
+            deployedLink: 'https://zara-clone-phi.vercel.app/',
             tags: ['HTML', 'CSS', 'Javascript', 'React', 'Chakra-UI']
         },
         {
