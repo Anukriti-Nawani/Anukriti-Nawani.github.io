@@ -45,7 +45,7 @@ const Projects = () => {
             keyPoint1: 'Exercise with certified personal trainers whether you’re at home or on the road.',
             keyPoint2: 'Professionally designed programs take the guesswork out of exercising.',
             githubLink: 'https://github.com/Anukriti-Nawani/Zee5_Clone_rambunctious-attraction-3750/tree/day5',
-            deployedLink: 'https://zee-nu.vercel.app/',
+            deployedLink: 'https://zee5-clone-rambunctious-attraction-3750-ga92ittkc.vercel.app//',
             tags: ['HTML', 'CSS', 'Reactjs', 'Chakra-Ui']
         },
         {
