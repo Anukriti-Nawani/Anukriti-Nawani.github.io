@@ -57,9 +57,7 @@ const About = () => {
                     
                         <h2>I am a <span>MERN Stack Developer</span></h2>
                         <p>My name is Anukriti Nawani, I am from Bengaluru, Karnataka. Frontend Developer with the ability to learn and collaborate in rapidly changing environments and compositions. Worked through 1000+ hours of bootcamp structure learning in JavaScript, Node.Js, React.Js, MongoDB, Express, HTML5, and CSS3.</p>
-                        {/* <div>
-                            <img src={signature} alt='Mohit_Signature' width='200px' />
-                        </div> */}
+                       
                     </div>
                 </div>
             </AboutMeWrapper>
@@ -136,11 +134,12 @@ const Container = styled.div`
 
     .about_rightBox{
         width:50%;
-        height:80%;
+        height:60%;
         display:flex;
         align-items:center;
         justify-content:center;
         border-radius:15px;
+       
        
     }
 
@@ -225,6 +224,8 @@ const Container = styled.div`
         .aboutBox{
             height:100%;
             flex-direction:column-reverse;
+            //border: 1px solid red;
+            margin-top:2rem;
             
         }
 
@@ -232,12 +233,14 @@ const Container = styled.div`
             font-size:x-large;
             line-height:0px;
             text-align:center;
+
         }
 
         .about_leftBox>p{
             color:#8492a6;
             font-size:17px;
             font-weight:500;
+
         }
 
         .about_leftBox{
@@ -246,6 +249,8 @@ const Container = styled.div`
             align-items:center;
             flex-direction:column;
             text-align:center;
+            //border: 1px solid red;
+
         }
 
         .about_rightBox{
@@ -263,12 +268,12 @@ const Container = styled.div`
         }
 
         .typical {
-            //  border:1px solid black;
+            // border:1px solid black;
             width: 100%;
             // margin-top: -1.7rem;
             margin-left: 2.7rem;
             text-transform: small-caps;
-            font-size: 10px;
+            font-size: 8px;
         }
 
     }
