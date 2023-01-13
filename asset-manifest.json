@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.73780a53.css",
-    "main.js": "/static/js/main.a444425f.js",
+    "main.js": "/static/js/main.e8aedea5.js",
     "static/js/787.bfbf3aeb.chunk.js": "/static/js/787.bfbf3aeb.chunk.js",
     "static/media/backgroundHome.jpeg": "/static/media/backgroundHome.a3861fa62c13f0155949.jpeg",
     "static/media/fitnessBlender.png": "/static/media/fitnessBlender.a34c75d2c738ccffff9a.png",
     "static/media/zara.jpg": "/static/media/zara.54c7002aed69958940eb.jpg",
     "static/media/kfc.jpeg": "/static/media/kfc.0b26bd2330b61df7b734.jpeg",
     "static/media/ESPN.jpeg": "/static/media/ESPN.1f5a7cd67e56495520d4.jpeg",
-    "static/media/profile.jpeg": "/static/media/profile.ebc24d909dd247a3ef56.jpeg",
+    "static/media/profile1.jpeg": "/static/media/profile1.d1286df3b4508d6a1483.jpeg",
     "static/media/react.png": "/static/media/react.22d1f2096ed82cab7a8a.png",
     "static/media/mongodb.png": "/static/media/mongodb.4f7af09e6354d51beec8.png",
     "static/media/css3.png": "/static/media/css3.845e8eb63836bef093cf.png",
@@ -20,11 +20,11 @@
     "static/media/mern.png": "/static/media/mern.b58d81727b47466a7cda.png",
     "index.html": "/index.html",
     "main.73780a53.css.map": "/static/css/main.73780a53.css.map",
-    "main.a444425f.js.map": "/static/js/main.a444425f.js.map",
+    "main.e8aedea5.js.map": "/static/js/main.e8aedea5.js.map",
     "787.bfbf3aeb.chunk.js.map": "/static/js/787.bfbf3aeb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73780a53.css",
-    "static/js/main.a444425f.js"
+    "static/js/main.e8aedea5.js"
   ]
 }
