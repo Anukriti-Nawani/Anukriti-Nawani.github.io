@@ -139,18 +139,19 @@ const Container = styled.div`
         align-items:center;
         justify-content:center;
         border-radius:15px;
-       
+       //border:1px solid red;
        
     }
 
     .about_rightBox>div{
-        width:250px;
-        height:250px;
+        width:245px;
+        height:230px;
         margin:auto;
         border-radius:100%;
         background-color:white;
         overflow:hidden;
-        
+        //border:1px solid red;
+
     }
     
 
