@@ -20,8 +20,8 @@ const Projects = () => {
             img: ZARA,
             desc: 'Latest trends in clothing for women, men & kids at ZARA online. Find new arrivals, fashion catalogs, collections & lookbooks every week.',
             worked: 'A collaborative project, built in 4 days by a team of 5 developers.',
-            githubLink: 'https://github.com/Anukriti-Nawani/Zara_clone',
-            deployedLink: 'https://zara-clone-fpd9ng53v-anunwn-gmailcom.vercel.app/',
+            githubLink: 'https://github.com/Anukriti-Nawani/Zara_clone/tree/master/zara-clone',
+            deployedLink: 'https://zara-clone-final.vercel.app/',
             tags: ['HTML', 'CSS', 'Javascript', 'React', 'Chakra-UI']
         },
         {
